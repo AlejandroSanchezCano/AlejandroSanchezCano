@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on applying machine learning on Lytic Polysaccharide MonoOxygenases enzymes.<br>👯 I’m looking for opportunities to collaborate with other devs.<br>🌱 I’m currently learning C++.<br>💬 Ask me about machine learning, proteomics, and many more.<br>⚡ Fun fact: I've beaten a master-level chess player on the streets of NY.
+🔭 I’m currently working on applying deep learning on MADS-box protein interactions.<br>👯 I’m looking for opportunities to collaborate with other scientists.<br>🌱 I’m currently learning about protein language models.<br>💬 Ask me about machine learning, proteomics, and many more.<br>⚡ Fun fact: I've beaten a master-level chess player on the streets of NY.
 
 
 ## 🌐 Socials:
